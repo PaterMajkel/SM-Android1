@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="textview">TextView</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_macbooks">Czy te macbooki będą w końcu normalnie działać?</string>
+    <string name="q_ios">Czy oddam w końcu drugie zadanie z IOS?</string>
+    <string name="q_sanity">Czy oszaleję i kupię macbooka na tydzień, by go zwrócić?</string>
+    <string name="q_stupidity">Czy osoba pisząca te poradniki do zadań miała rozum i godność człowieka?</string>
+    <string name="q_hungry">Czy jadłeś dzisiaj śniadanie?</string>
+    <string name="correct_answer">Brawo!</string>
+    <string name="incorrect_answer">Bruh.....</string>
+</resources>
